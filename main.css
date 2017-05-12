@@ -31390,6 +31390,18 @@ ul#techDev li img {
     #fws_123 {
         padding: 0 10px;
     }
+
+    #servicesModal .serviceSingle h2 {
+        font-size: 30px;
+        top: 120px;
+        left: 180px;
+    }
+
+    #servicesModal .serviceSingle p {
+        top: 200px !important;
+        font-size: 20px;
+        line-height: 30px;
+    }
 }
 
 
