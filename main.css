@@ -31376,11 +31376,19 @@ ul#techDev li img {
     }
 }
 
+#fws_58d40c3d82287 {
+    padding: 0;
+}
+
 @media (max-width: 992px){
     ul#techDev li {
         float: left;
         width: 33%;
         text-align: center;
+    }
+
+    #fws_58d40c3d82287 {
+        padding: 0 10px;
     }
 }
 
