@@ -31521,3 +31521,48 @@ ul#techDev li img {
 #get-in-touch #formContact {
     margin-top: 30px;
 }
+
+#contactSetcion {
+    position: relative;
+    z-index: 1;
+}
+
+#get-in-touch #contactSetcion  h1.text-center{
+    background: white;
+    margin: 0;
+    padding: 20px 0 20px 0;
+}
+
+#contactSetcion .contact-call-at.free-quote-call-mtb {
+    background: white;
+}
+
+#get-in-touch  #contactSetcion .contact-call-at.free-quote-call-mtb .phoneCall {
+    margin: 0 auto 0;
+    font-size: 23px;
+    font-weight: 100;
+    padding: 0 0 20px 0;
+}
+
+#get-in-touch  #contactSetcion .row.contact-benefits {
+    background: white;
+    padding: 0;
+    margin: 0;
+}
+
+#get-in-touch #contactSetcion #formContact {
+    margin-top: 0;
+    padding: 30px 0;
+    background: white;
+}
+
+#get-in-touch #contactSetcion #formContact  form {
+    margin-bottom: 30px;
+    padding: 0 50px;
+}
+
+#googlemaps {
+    background-image: url("la.png");
+    background-size: cover;
+    background-position: center center;
+}
